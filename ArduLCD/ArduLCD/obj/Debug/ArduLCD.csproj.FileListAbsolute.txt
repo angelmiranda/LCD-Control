@@ -1,0 +1,9 @@
+c:\users\angel\documents\visual studio 2015\Projects\ArduLCD\ArduLCD\bin\Debug\ArduLCD.exe.config
+c:\users\angel\documents\visual studio 2015\Projects\ArduLCD\ArduLCD\bin\Debug\ArduLCD.exe
+c:\users\angel\documents\visual studio 2015\Projects\ArduLCD\ArduLCD\bin\Debug\ArduLCD.pdb
+c:\users\angel\documents\visual studio 2015\Projects\ArduLCD\ArduLCD\obj\Debug\ArduLCD.csprojResolveAssemblyReference.cache
+c:\users\angel\documents\visual studio 2015\Projects\ArduLCD\ArduLCD\obj\Debug\ArduLCD.Form1.resources
+c:\users\angel\documents\visual studio 2015\Projects\ArduLCD\ArduLCD\obj\Debug\ArduLCD.Properties.Resources.resources
+c:\users\angel\documents\visual studio 2015\Projects\ArduLCD\ArduLCD\obj\Debug\ArduLCD.csproj.GenerateResource.Cache
+c:\users\angel\documents\visual studio 2015\Projects\ArduLCD\ArduLCD\obj\Debug\ArduLCD.exe
+c:\users\angel\documents\visual studio 2015\Projects\ArduLCD\ArduLCD\obj\Debug\ArduLCD.pdb
